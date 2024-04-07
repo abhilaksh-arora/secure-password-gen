@@ -9,6 +9,9 @@ You can install the `secure-password-generator` package via npm:
 npm install secure-password-generator
 
 ## Usage
+
+```bash
+
 const generatePassword = require('secure-password-generator');
 
 // Generate a password with default settings (12 characters, including uppercase, lowercase, numbers, and symbols)
@@ -18,6 +21,10 @@ console.log("Default Password:", password);
 // Generate a password with custom length and options
 const customPassword = generatePassword(16, true, true, true, false);
 console.log("Custom Password:", customPassword);
+
+```
+
+## Documentation
 
 The generatePassword function accepts the following parameters:
 
