@@ -29,9 +29,13 @@ console.log("Custom Password:", customPassword);
 The generatePassword function accepts the following parameters:
 
 length (optional): The length of the password (default is 12).
+
 includeUppercase (optional): Whether to include uppercase letters (default is true).
+
 includeLowercase (optional): Whether to include lowercase letters (default is true).
+
 includeNumbers (optional): Whether to include numbers (default is true).
+
 includeSymbols (optional): Whether to include symbols (default is true).
 
 ## License
