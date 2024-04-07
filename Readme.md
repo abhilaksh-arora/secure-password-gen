@@ -1,4 +1,4 @@
-# SECURE Password Generator
+# Secure Password Generator
 
 A simple npm package for generating random passwords with customizable options.
 
@@ -6,7 +6,6 @@ A simple npm package for generating random passwords with customizable options.
 
 You can install the `secure-password-generator` package via npm:
 
-```bash
 npm install secure-password-generator
 
 ## Usage
@@ -39,4 +38,3 @@ In this documentation:
 - The `License` section states the license under which the package is distributed.
 
 You can customize the documentation further to include more details about the package, such as additional options for password generation, security considerations, and any other relevant information. Make sure to keep the documentation clear and easy to understand for users who want to use your package.
-```
