@@ -43,5 +43,3 @@ In this documentation:
 - The `Installation` section explains how to install the package using npm.
 - The `Usage` section provides examples of how to use the `generatePassword` function with default and custom options.
 - The `License` section states the license under which the package is distributed.
-
-You can customize the documentation further to include more details about the package, such as additional options for password generation, security considerations, and any other relevant information. Make sure to keep the documentation clear and easy to understand for users who want to use your package.
